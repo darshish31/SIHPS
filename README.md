@@ -44,39 +44,11 @@ oOpinion polls for decision-making.
 
 
 ## Proposed Solution / Architecture Diagram
+![Alumni_Platform_Architecture](https://github.com/user-attachments/assets/7d3bf936-1d98-44e1-b5fb-4e3f276b1872)
 
 
 ## Use Cases
-#Use Case 1: Alumni Registration
-#Actors: 
-oAlumni, System.
-#Flow:
-oAlumni signs up using email or social login.
-oSystem verifies credentials and stores the profile.
-oAlumni updates profile with education and employment details.
-
-#Use Case 2: Donation Process
-#Actors:
-oAlumni, Payment Gateway, System.
-#Flow:
-oAlumni selects an initiative to donate.
-oPayment is processed via the payment gateway.
-oReceipt is generated and emailed to the donor.
-
-#Use Case 3: Event Management
-#Actors: 
-Alumni, Admin, System.
-#Flow:
-oAdmin creates an event and publishes it.
-oAlumni register for the event.
-oSystem sends reminders and follow-up notifications.
-
-#Use Case 4: Job Posting
-#Actors: Alumni (Employer), System.
-#Flow:
-oAlumni logs in and posts job details.
-oJob seekers apply through the platform.
-oEmployer views applications and shortlists candidates.
+![Alumni_Platform_UseCases png](https://github.com/user-attachments/assets/ea6ba541-68e1-4ddb-af8d-d4dcf2ed9611)
 
 
 ## Technology Stack
